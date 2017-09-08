@@ -1,3 +1,4 @@
 t is a version control system.
 Git is free software.
-yzj a 
+yzj a
+Creating a new branch is quick. 
